@@ -1,0 +1,21 @@
+.player__body {
+  display: flex;
+}
+
+@media (max-width: 700px) {
+  .player__body {
+    display: flex;
+  }
+}
+
+@media (max-width: 700px) {
+  .player__body {
+    display: flex;
+  }
+}
+
+@media (max-width: 700px) {
+  .player__body {
+    display: flex;
+  }
+}
